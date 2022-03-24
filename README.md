@@ -8,6 +8,7 @@ Me llamo Jonathan, Soy de Argentina y soy un Full Stack Developer
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanR6&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  
   ###Tecnologias
   
 <div>
